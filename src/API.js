@@ -4,7 +4,8 @@
 
 import dayjs from "dayjs";
 
-const URL = 'http://localhost:3001/api';
+//const URL = 'http://localhost:3001/api';
+const URL = 'https://test-wa24-api.onrender.com/api';
 
 async function getAllQuestions() {
   // call  /api/questions
