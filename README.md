@@ -1,0 +1,1 @@
+# test-wa24-static
